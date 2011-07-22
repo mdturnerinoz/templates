@@ -1,0 +1,13 @@
+This series of C++ template usage (Platforms) is based on a web article at
+http://altdevblogaday.com/2011/06/27/platform-abstraction-with-cpp-templates/ entitled
+"Platform Abstraction with C++ Templates" by Michael Tedder. I thought it'd be fun to
+place his example code on github so I (and others) could play with this and thus learn
+better how C++ templates work (something I'm at present somewhat weak in the 
+understanding of).
+
+For the present, only the "platforms" project exists; as I get more "into" C++ templates
+I'll add more so we can all understand these beasties better.  ;0)
+
+Hope it's useful to you as it was to me!
+
+Marty Turner - 22 July 2011
