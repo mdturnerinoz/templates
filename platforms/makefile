@@ -10,5 +10,5 @@ clean:
 	rm -f $(PROG) *~
 
 run: $(PROG)
-	@./$(PROG) 
-
+   @./$(PROG) 
+   
