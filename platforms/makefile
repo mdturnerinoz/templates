@@ -7,11 +7,11 @@ SRCS   := example1.cpp
 all: $(PROG)
 
 $(PROG): $(SRCS)
-	$(CC) $(CFLAGS) -o $(PROG) $(SRCS) $(LIBS)
+	$(CC) $(CFLAGS) -o $(PROG) $(SRCS) 
 
 clean:
 	rm -f $(PROG) *~
 
 run: $(PROG)
-	./$(PROG) 
+	@./$(PROG) 
 
