@@ -1,5 +1,5 @@
 CC     := g++
-CFLAGS := -Wall
+CFLAGS := -Wall -g -O0
 PROG   := example1
 
 SRCS   := example1.cpp

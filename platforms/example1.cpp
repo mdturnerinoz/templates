@@ -5,9 +5,9 @@ using namespace std;
 
 int main()
 {
-	Debug::print("hello world!");
+   Debug::print("hello world!");
    printf("platform is %s\n",PLATFORM_NAME);
-	return 0;
+   return 0;
 }
 
 
